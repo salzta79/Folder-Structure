@@ -1,0 +1,9 @@
+PlantID/
+ ├─ package.json
+ ├─ netlify.toml
+ ├─ public/
+ │   └─ index.html
+ └─ src/
+     ├─ index.jsx
+     ├─ IdentifierApp.jsx
+     └─ App.jsx
